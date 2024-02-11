@@ -1,0 +1,67 @@
+{
+  "..\\components\\common\\modal\\managed-modal.tsx -> @components/auth/forget-password-form": {
+    "id": 29436,
+    "files": [
+      "static/chunks/commons-f17882ef005079bf12a2.js",
+      "static/chunks/9436.9f3d298b3121a10abf8a.js"
+    ]
+  },
+  "..\\components\\common\\modal\\managed-modal.tsx -> @components/auth/login-form": {
+    "id": 33945,
+    "files": [
+      "static/chunks/commons-f17882ef005079bf12a2.js",
+      "static/chunks/3945.1da993b8a26d8e9d247b.js"
+    ]
+  },
+  "..\\components\\common\\modal\\managed-modal.tsx -> @components/auth/sign-up-form": {
+    "id": 17061,
+    "files": [
+      "static/chunks/commons-f17882ef005079bf12a2.js",
+      "static/chunks/5835-5164e1061d4a7ef6b39e.js",
+      "static/chunks/9738-6eb9828f9bedae8e3c7e.js",
+      "static/chunks/9600.0bfdc47e77ad65b13fb1.js"
+    ]
+  },
+  "..\\components\\common\\modal\\managed-modal.tsx -> @components/product/product-popup": {
+    "id": 17696,
+    "files": [
+      "static/chunks/7696.8e52a310e7e3c5ff985a.js"
+    ]
+  },
+  "..\\components\\layout\\header\\header.tsx -> ./auth-menu": {
+    "id": 13642,
+    "files": [
+      "static/chunks/3642.7c2d78a4fd6f26dda517.js"
+    ]
+  },
+  "..\\components\\layout\\header\\header.tsx -> @components/cart/cart-button": {
+    "id": 33627,
+    "files": [
+      "static/chunks/3627.772d1364d0f8d64bffad.js"
+    ]
+  },
+  "..\\components\\layout\\mobile-navigation\\mobile-navigation.tsx -> @components/cart/cart-button": {
+    "id": 33627,
+    "files": [
+      "static/chunks/3627.772d1364d0f8d64bffad.js"
+    ]
+  },
+  "..\\components\\layout\\mobile-navigation\\mobile-navigation.tsx -> @components/layout/header/auth-menu": {
+    "id": 13642,
+    "files": [
+      "static/chunks/3642.7c2d78a4fd6f26dda517.js"
+    ]
+  },
+  "..\\components\\layout\\mobile-navigation\\mobile-navigation.tsx -> @components/layout/header/mobile-menu": {
+    "id": 11265,
+    "files": [
+      "static/chunks/1265.cff973b18331dc4c2876.js"
+    ]
+  },
+  "..\\containers\\product-flash-sale-block.tsx -> react-countdown": {
+    "id": 98130,
+    "files": [
+      "static/chunks/8130.f8bacb64eb6cdc282aca.js"
+    ]
+  }
+}
